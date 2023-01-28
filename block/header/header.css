@@ -1,0 +1,9 @@
+.header{
+    min-height: 600px;
+    max-height: 756px;
+    display: flex;
+    position: relative;
+    font-family:'inter', 'Arial', sans-serif;
+    overflow:hidden;
+    background:#f2f2f2;
+}

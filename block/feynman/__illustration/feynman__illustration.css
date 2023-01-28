@@ -1,0 +1,9 @@
+.feynman__illustration{
+    display:flex;
+    position:absolute;
+    width:867px;
+    height:637;
+    z-index:2;
+    bottom:0;
+    left:0;
+}

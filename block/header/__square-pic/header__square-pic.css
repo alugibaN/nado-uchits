@@ -1,0 +1,21 @@
+.header__square-pic{
+    position:absolute;
+    width:568px;
+    height:568px;
+    background-color: #2f80ed;
+    top:64px;
+    right:0;
+    z-index:2;
+    animation-name:header__square-pic;
+    animation-duration: 20s;
+    animation-iteration-count:infinite;
+}
+
+@keyframes header__square-pic {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+} 

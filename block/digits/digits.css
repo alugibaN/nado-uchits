@@ -1,0 +1,9 @@
+
+.digits{
+    width:80%;
+    margin:0 auto 100px auto;
+    font-family: 'Inter', 'Arial', sans-serif; 
+    display:flex;
+    flex-direction:column;
+    align-content:center;
+}
